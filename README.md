@@ -37,3 +37,19 @@ ds-first-project/
 行程规划更详细
 
 增加随机化和个性化推荐
+# Travel Planner MVP 🌍
+
+This is a minimum viable product (MVP) travel planning web app built with Streamlit.
+
+Users can input:
+- Destination
+- Number of travelers
+- Trip duration
+- Travel style
+
+The app then generates a basic travel plan including:
+- Accommodation suggestions
+- Travel routes
+- Food recommendations
+
+🔗 Live demo: <https://ds-first-project-crb24pdpwg6bx3mxdnw2qw.streamlit.app/>
